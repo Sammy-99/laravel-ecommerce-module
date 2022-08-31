@@ -1,0 +1,7 @@
+{
+    "Test": true,
+    "Demo": true,
+    "Product": true,
+    "Migration": true,
+    "AddCustomerIdToUsers": true
+}
